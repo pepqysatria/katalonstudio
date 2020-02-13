@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Register with valid data should success</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>4288e6aa-e292-4773-934a-f9e3494aba5e</testCaseGuid>
+</TestCaseEntity>
